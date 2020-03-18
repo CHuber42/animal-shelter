@@ -15,15 +15,26 @@ div.rightcolumn{
   
 }
 
+img{
+  border: 5px solid darkblue;
+}
+
 div.centercolumn{
+  float: center;
   border: 5px solid darkblue;
   padding: 5px;
   margin-left: 20%;
   margin-right: 20%;
   text-align: center;
   background-color: salmon;
-  
-}
+ }
+
+ ul {
+   width: 5%;
+   float: center;
+   margin-left: 45%;
+   margin-right: 50%;  
+ }
 
 h3 {
   font-weight: 900;
