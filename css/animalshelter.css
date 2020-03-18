@@ -6,35 +6,33 @@
   
 }
 
-div.leftcolumn{
-  float: left;
+body {
+  background-color: blueviolet;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-div.rightcolumn{
-  float: right;
-  
-}
 
-img{
+
+div img{
   border: 5px solid darkblue;
+  height: 35%;
+  width: 100%;
+
 }
 
-div.centercolumn{
-  float: center;
+div.column{
+  float: left;
   border: 5px solid darkblue;
   padding: 5px;
-  margin-left: 20%;
-  margin-right: 20%;
-  text-align: center;
-  background-color: salmon;
+  background-color:aqua;
+  height: 700px;
+  width: 15%;
+  font-style: italic;
+  
  }
 
- ul {
-   width: 5%;
-   float: center;
-   margin-left: 45%;
-   margin-right: 50%;  
- }
+
 
 h3 {
   font-weight: 900;
