@@ -3,11 +3,11 @@
   font-weight: 900;
   font-size: large;
   background-color: blue;
+  
 }
 
 div.leftcolumn{
   float: left;
- 
 }
 
 div.rightcolumn{
@@ -16,9 +16,13 @@ div.rightcolumn{
 }
 
 div.centercolumn{
-  float: center;
-
+  border: 5px solid darkblue;
+  padding: 5px;
+  margin-left: 20%;
+  margin-right: 20%;
   text-align: center;
+  background-color: salmon;
+  
 }
 
 h3 {
