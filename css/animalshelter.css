@@ -1,9 +1,15 @@
 .catcheye {
-  color: red;
+  color:silver;
   font-weight: 900;
-  font-size: large;
-  background-color: blue;
-  
+  font-size: large;  
+}
+
+h3 {
+  font-weight: 900;
+}
+
+h3 a {
+  color: blue;
 }
 
 body {
@@ -17,7 +23,7 @@ body {
 div img{
   border: 5px solid darkblue;
   height: 35%;
-  width: 100%;
+  width: 95%;
 
 }
 
@@ -28,13 +34,10 @@ div.column{
   background-color:aqua;
   height: 700px;
   width: 15%;
-  font-style: italic;
-  
+  font-style: italic;  
  }
 
-
-
-h3 {
+div.column p.heavy {
   font-weight: 900;
-
 }
+
