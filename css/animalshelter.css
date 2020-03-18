@@ -36,12 +36,18 @@ p.bottom-align {
 }
 
 div.column{
+  opacity: 90%;
   float: left;
   border: 5px solid darkblue;
   background-color:silver;
   height: 700px;
   width: 16%;
-  font-style: italic;  
+  font-style: italic;
+
+ }
+
+ div.column:hover {
+   opacity: 100%;
  }
 
 div.column p.heavy {
