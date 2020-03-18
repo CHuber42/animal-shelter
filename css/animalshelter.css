@@ -24,7 +24,7 @@ ul {
 }
 
 div img{
-  border: 5px solid darkblue;
+  border: 5px solid black;
   height: 35%;
   width: 95%;
 
@@ -38,10 +38,9 @@ p.bottom-align {
 div.column{
   float: left;
   border: 5px solid darkblue;
-  padding: 5px;
-  background-color:aqua;
+  background-color:silver;
   height: 700px;
-  width: 15%;
+  width: 16%;
   font-style: italic;  
  }
 
