@@ -30,6 +30,11 @@ div img{
 
 }
 
+p.bottom-align {
+  margin-top: 90%;
+  text-align: bottom;
+}
+
 div.column{
   float: left;
   border: 5px solid darkblue;
