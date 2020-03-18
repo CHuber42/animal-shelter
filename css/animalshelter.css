@@ -18,7 +18,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-
+ul {
+  text-align: left;
+  font-style: normal;
+}
 
 div img{
   border: 5px solid darkblue;
